@@ -1,0 +1,6 @@
+.vs/
+bin/
+bin-intermediate/
+git/
+
+*.user
